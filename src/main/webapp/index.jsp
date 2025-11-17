@@ -49,7 +49,7 @@
                         <i class="fas fa-user-tie"></i>
                     </div>
                     <div class="instructor-details">
-                        <h2>I'm Dr. Kastro Kiran V</h2>
+                        <h2>I'm  sujit sahu V</h2>
                         <p>DevOps Trainer cum Engineer</p>
                     </div>
                 </div>
